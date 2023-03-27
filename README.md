@@ -1,6 +1,6 @@
-<h2>Welcome to my #100DaysOfPythonML challenge repository!</h2>
+<h1>Welcome to my #100DaysOfPythonML challenge repository!</h1>
 
-Starting from March 23, 2023, I will be working on this challenge to improve my skills and expertise in Python, Data Science, AI, and Machine Learning. The primary goal of this challenge is to learn something new every day related to these topics and implement it by pushing the code to this repository.
+<h2>Starting from March 23, 2023, I will be working on this challenge to improve my skills and expertise in Python, Data Science, AI, and Machine Learning. The primary goal of this challenge is to learn something new every day related to these topics and implement it by pushing the code to this repository.</h2>
 
 During the 100 days, I will be exploring various aspects of Python, including web development, scientific computing, data analysis, and AI. Additionally, I will be learning Data Science, which includes data cleaning, preprocessing, visualization, and modeling, to gain meaningful insights from complex data sets.
 
