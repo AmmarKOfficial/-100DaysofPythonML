@@ -91,7 +91,7 @@ To recap: if you want to iterate over key-value pairs in a dictionary, use the i
 
 _______________________________________________________
 
-<h1> Loop Data Structures Part 2 <h2/>
+<h1> Loop Data Structures Part 2 </h2>
 
 There's one killer data structure out there that we haven't covered up to now when it comes to looping: the Pandas DataFrame.
 
